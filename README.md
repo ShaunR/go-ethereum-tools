@@ -22,8 +22,8 @@ getBalances("ether");
 If you found any of these tools useful and would like to show your appreciation you can do so using one of the following methods.
 
 Ethereum: 0xc0685c1221d97e062182c665930f713bd5b5c171
-Bitcoin: 39hZC4y1W5uLv4KDdV447xgMmAtXSHtzhi
-Litecoin: MNEFQnt8A44tMWnHtRnKxiQfzFiJfKDSNq
-BNB: 0xc0685c1221d97e062182c665930f713bd5b5c171
-BitcoinCash: qrypak5f3k6rjtg5sq3jxda2hd528un32c8zt5073f
 
+- Bitcoin: 39hZC4y1W5uLv4KDdV447xgMmAtXSHtzhi
+- Litecoin: MNEFQnt8A44tMWnHtRnKxiQfzFiJfKDSNq
+- BNB: 0xc0685c1221d97e062182c665930f713bd5b5c171
+- BitcoinCash: qrypak5f3k6rjtg5sq3jxda2hd528un32c8zt5073f
